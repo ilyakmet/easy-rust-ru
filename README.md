@@ -1,3 +1,5 @@
+[![gitlocalized ](https://gitlocalize.com/repo/5599/ru/badge.svg)](https://gitlocalize.com/repo/5599/ru?utm_source=badge)
+
 Update 28 November 2020: [Now also available in simplified Chinese](https://github.com/kumakichi/easy_rust_chs) thanks to [kumakichi](https://github.com/kumakichi)!
 
 ## Introduction
